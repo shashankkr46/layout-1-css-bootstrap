@@ -1,0 +1,44 @@
+.landing_page
+{
+	background-image: url("../images/landing_page.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body
+{
+	font-family: arial;
+}
+.header-left-text
+{
+	color: white;
+	font-size:0.8em;
+}
+.header-left-text>span
+{
+	padding-left: 2rem;
+}
+.inner-span
+{
+	padding-left:0.4rem;
+}
+.header-right-text
+{
+	color: white;
+	font-size:0.8em;
+}
+.eng
+{
+	padding-left: 10rem;
+}
+.header-font-icon
+{
+	padding-left: 2rem;
+}
+.vl
+{
+  border-right: 1px solid grey;
+  height: 6px;
+  padding-left: 2rem;
+
+}
+
