@@ -39,6 +39,39 @@ body
   border-right: 1px solid grey;
   height: 6px;
   padding-left: 2rem;
+}
+.navbar-box
+{
+	background-color: white;
+	width: 99%;
+	margin-left: 1.8rem;
+	padding-bottom: 0.9rem;
+}
+.navbar-brand
+{
+	color: #353E73;
+	font-size: 2em;
+	font-weight: bold;
+}
+li a
+{
+	color: #353E73;
+	font-size: 0.9em;
+	font-weight: bold;
+}
+li
+{
+	padding-left: 1.7rem;
+}
+.quote
+{
+	padding-top: 1rem;
+	padding-bottom: 0.8rem;
+	padding-top: 2rem;
+	color: white;
+	font-size: 0.8em;
+	font-weight: bold;
 
 }
+
 
