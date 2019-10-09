@@ -94,4 +94,22 @@ li
 	text-align: center;
 	
 }
-
+.strategy
+{
+	background-image: url("../images/call_center.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 18rem;
+}
+.cont
+{
+	margin-top:-80px;
+}
+.finan
+{
+	padding-top: 4rem;
+}
+.innov-heading
+{
+	font-size: 1.5em;
+}
