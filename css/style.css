@@ -111,5 +111,49 @@ li
 }
 .innov-heading
 {
-	font-size: 1.5em;
+	font-size: 1.2em;
+}
+.innov-box
+{
+	padding-left: 4.2rem;
+}
+.innov-para
+{
+	padding-right: 25rem;
+	padding-top: 1rem;
+	word-spacing: 2px;
+}
+.subscript
+{
+	font-size: 2em;
+}
+.percentage
+{
+	font-size: 2rem;
+	font-weight: bold;
+}
+.num1
+{
+	padding-left:9.5rem;
+}
+.num2
+{
+	padding-left: 7.2rem;
+}
+.num-text
+{
+	font-size: 0.9em;
+	color: white;
+}
+.num-text-rest
+{
+	padding-left: 4.2rem;
+}
+.num-text-rest-1
+{
+	padding-left: 6.8rem;
+}
+.num-text-rest-2
+{
+	padding-left: 6.1rem;
 }
