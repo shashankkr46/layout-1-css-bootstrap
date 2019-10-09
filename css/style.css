@@ -110,7 +110,6 @@ li
 	padding-top: 4rem;
 }
 
-
 .innov-heading
 {
 	font-size: 1.2em;
@@ -159,3 +158,98 @@ li
 {
 	padding-left: 6.1rem;
 }
+.testimonial-box
+{
+	padding-bottom: 4.5rem;
+	color: #353E73;
+}
+.testimonial-heading
+{
+	font-size: 1.8em;
+	font-weight:bold;
+    
+}
+.testimonial-para
+{
+	padding-left: 4rem;
+	padding-right: 4rem;
+	text-align: center;
+	line-height:1.7;
+	font-size: 1em;
+	letter-spacing: 1px;
+    color: #353E73;
+}
+.star
+{
+	line-height: 0px;
+}
+.ceo
+{
+	font-size: 0.8em;
+}
+.form-box
+{
+	background-image: url("../images/sky.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 3rem;
+}
+.form-box-heading
+{
+	font-size: 3em;
+}
+.form-para
+{
+	color: white;
+	font-size: 1em;
+	padding-right: 10rem;
+	line-height: 1.5;
+	word-spacing: 1px;
+}
+.form-box-text
+{
+	padding-top: 5rem;
+}
+.form-box-main-heading
+{
+	font-size: 0.9em;
+	padding:1.2rem 0rem 0rem 2rem;
+
+}
+.input-box
+{
+	padding-left:1.9rem;
+	padding-right: 1.9rem;
+}
+.input-box-inner
+{
+	padding-top:1.5rem;
+	padding-bottom: 1.5rem;
+	border-radius: 3px;
+	font-size: 0.8em;
+}
+.select-box
+{
+	padding: 0.9rem 9.2rem 0.9rem 0.5rem;
+	border-radius: 3px;
+	font-size: 0.8em;
+}
+.form-sub-btn
+{
+	font-size: 0.9em;
+	font-weight: bold;
+	border-radius: 3px;
+	padding-bottom:0.8rem; 
+	padding-top:0.8rem;
+
+}
+::placeholder {
+  color: black !important;  
+}
+.shadow
+{
+background-color:black;
+
+
+}
+
