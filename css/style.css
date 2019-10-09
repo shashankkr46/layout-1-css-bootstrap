@@ -297,3 +297,65 @@ background-color:black;
 	padding-left: 6.5rem;
 	padding-top: 3rem;
 }
+.footer-box
+{
+	background-color: #070B2D;
+	padding-left: 3rem;
+	padding-top: 3rem;
+	padding-right: 4rem;
+}
+.footer-brand
+{
+	font-size: 1.9em;
+	padding-left: 0.5rem;
+}
+.footer-para
+{
+	font-size: 0.9em;
+	color: #B0B2C2;
+	line-height: 1.8;
+}
+.footer-links
+{
+	padding-top: 1.2rem;
+	font-size: 0.9em;
+    color: #B0B2C2;
+}
+.foot-active
+{
+		font-size: 0.9em;
+		color: #B0B2C2;
+}
+.footer-link
+{
+	padding-top: 4.1rem;
+}
+.footer-recent
+{
+	font-size: 0.9em;
+    color: white;
+    color: #B0B2C2;
+}
+.footer-card
+{
+  background-color: #070B2D;
+  border-style: none;
+}
+.subs
+{
+	font-size: 0.9em;
+	font-weight: bold;
+}
+.footer-form-heading
+{
+	font-size: 0.9em;
+}
+.footer-form-para
+{
+	font-size: 0.9em;
+    color: #B0B2C2;
+    padding-top: 1em;
+
+}
+
+
