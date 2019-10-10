@@ -59,10 +59,11 @@ li a
 	color: #353E73;
 	font-size: 0.9em;
 	font-weight: bold;
+	text-transform: uppercase;
 }
 li
 {
-	padding-left: 1.6rem;
+	padding-left: 1rem;
 }
 .quote
 {
@@ -93,6 +94,11 @@ li
 {
 	text-align: center;
 	
+}
+.btn-text
+{
+	font-size: 0.9em;
+	font-weight: bold;
 }
 .strategy
 {
@@ -248,12 +254,12 @@ li
 }
 .shadow
 {
-background-color:black;
+background:rgba(0,0,0,0.4);
 
 }
 .news-heading
 {
-  color: #353E73;
+  color: black;
 }
 .ad
 {
@@ -317,7 +323,7 @@ background-color:black;
 }
 .footer-links
 {
-	padding-top: 1.2rem;
+	padding-top: 1.5rem;
 	font-size: 0.9em;
     color: #B0B2C2;
 }
@@ -365,5 +371,17 @@ background-color:black;
 {
 	font-size: 0.9em;
 }
+.cost
+{
+	padding-top: 2.6rem;
+}
+.date-footer
+{
+	font-size: 0.8em;
+}
 
-
+.footer-face-icon
+{
+	padding-right:1.2rem;
+	padding-left:1.2rem;
+}
