@@ -325,6 +325,10 @@ background:rgba(0,0,0,0.4);
 	color: #B0B2C2;
 	line-height: 1.8;
 }
+.our-link
+{
+	font-size:0.9em;
+}
 .footer-links
 {
 	padding-top: 1.5rem;
